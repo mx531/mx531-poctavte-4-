@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main-ul {
+    background-color: rgb(119, 105, 105);
+    width: 100px;
+    list-style: none;
+    padding-left: 15px;
+    margin: 0;
+}
+.top {
+    background-color: brown;
+    width: 100px;
+    margin: 0;
+}
+.main-ul a {
+    display: block;
+}
+.from {
+    margin-left: 5em;
+}
+.from input {
+    display: block;
+}
+.from .checkbox {
+    display:inline;
+}
+.color-red {
+    color: #5D5C61 ;
+}
